@@ -1,7 +1,7 @@
-# Your Bank - Full Stack Banking Application
+Full Stack Banking Application
 
 ## Introduction
-Welcome to "Your Bank," a state-of-the-art full-stack banking application tailored for the modern era. Designed to simplify financial management, our application offers an array of user-friendly features such as deposits, withdrawals, transfers, and innovative peer-to-peer transactions via email. Additionally, the app includes advanced functionalities like transaction history tracking and interactive expense charts, empowering you to monitor and manage your financial journey effectively.
+Welcome to  a state-of-the-art full-stack banking application tailored for the modern era. Designed to simplify financial management, our application offers an array of user-friendly features such as deposits, withdrawals, transfers, and innovative peer-to-peer transactions via email. Additionally, the app includes advanced functionalities like transaction history tracking and interactive expense charts, empowering you to monitor and manage your financial journey effectively.
 
 ## Key Features
 - **Deposits & Withdrawals**: Streamline your fund management with intuitive deposit and withdrawal capabilities.
